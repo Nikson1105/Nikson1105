@@ -1,258 +1,149 @@
-::: {align="center"}
-```{=html}
-<!-- Animated header -->
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:087E8B,100:00C2D1&height=210&section=header&text=Nikhil%20Sonawane&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Data%20Engineering%20%7C%20AI%2FML&descAlignY=57&descSize=16" width="100%" alt="Nikhil Sonawane profile header"/>`{=html}
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:087E8B,100:00C2D1&height=210&section=header&text=Nikhil%20Sonawane&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Data%20Engineering%20%7C%20AI%2FML&descAlignY=57&descSize=16" width="100%" alt="Nikhil Sonawane"/>
 
-`<a href="https://www.linkedin.com/in/nikhilnsonawane/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/Nikson1105">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Nikson1105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`</a>`{=html}
-`<img src="https://komarev.com/ghpvc/?username=Nikson1105&style=for-the-badge&color=087E8B&label=PROFILE+VIEWS" alt="Profile views"/>`{=html}
-:::
+  <a href="https://www.linkedin.com/in/nikhilnsonawane/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Nikson1105">
+    <img src="https://img.shields.io/badge/GitHub-Nikson1105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nikson1105&style=for-the-badge&color=087E8B&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
-------------------------------------------------------------------------
+---
 
 ## About Me
 
-Hi, I'm **Nikhil Sonawane**, a Computer Engineering student at
-**Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere**. I
-enjoy turning ideas into practical software and data-driven solutions.
+Hi, I'm **Nikhil Sonawane**, a Computer Engineering student at **Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere**. I enjoy building practical software and exploring how data and AI can solve real-world problems.
 
--   Currently an **Intern at HCLTech**, exploring Data Engineering and
-    AI/ML.
--   Building my foundations in **Google Cloud, BigQuery, data
-    warehousing, Python, and SQL**.
--   Interested in **data pipelines, analytics, machine learning, and
-    intelligent applications**.
--   I enjoy public speaking, sharing what I learn, and helping fellow
-    students grow.
--   Career goal: become a versatile software and data professional who
-    builds useful technology.
+- Currently an **Intern at HCLTech**, exploring Data Engineering and AI/ML.
+- Learning **Google Cloud Platform (GCP), BigQuery, data warehousing, Python, and SQL**.
+- Interested in **Data Engineering, Machine Learning, Generative AI, and intelligent applications**.
+- Passionate about public speaking, sharing knowledge, and helping juniors grow.
+- Working towards becoming a skilled software and data professional.
 
-> *Learn continuously. Build thoughtfully. Share generously.*
+> Learn continuously. Build thoughtfully. Share generously.
 
-## Current Focus
+## What I'm Working On
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%">
-```
-```{=html}
-<h3>
-```
-Data Engineering
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-Learning how data is ingested, transformed, stored, validated, and
-prepared for analytics using SQL and cloud data tools.
-```{=html}
-</p>
-```
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%">
-```
-```{=html}
-<h3>
-```
-AI / Machine Learning
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-Experimenting with predictive modelling, NLP, LSTM networks, and
-practical AI-powered applications.
-```{=html}
-</p>
-```
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%">
-```
-```{=html}
-<h3>
-```
-Software Development
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-Developing web applications and exploring how reliable backend systems
-connect with useful user experiences.
-```{=html}
-</p>
-```
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%">
-```
-```{=html}
-<h3>
-```
-Communication & Community
-```{=html}
-</h3>
-```
-```{=html}
-<p>
-```
-Practising public speaking, presenting technical topics, and supporting
-juniors in their learning journey.
-```{=html}
-</p>
-```
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Data Engineering</h3>
+      Learning data pipelines, SQL transformations, cloud storage, data warehousing, and analytics using Google Cloud.
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI / Machine Learning</h3>
+      Exploring predictive modelling, natural language processing, LSTM networks, and AI-powered applications.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Software Development</h3>
+      Building web applications and learning to develop reliable, useful, and user-friendly software.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Communication</h3>
+      Practising public speaking, presenting technical topics, and supporting fellow students in their learning journey.
+    </td>
+  </tr>
 </table>
-```
+
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>`{=html}
-`<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>`{=html}
-`<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>`{=html}
-`<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>`{=html}
-`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
-```
-### Data, AI & Cloud
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>`{=html}
-`<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>`{=html}
-`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>`{=html}
-`<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>`{=html}
-`<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>`{=html}
-`<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>`{=html}
-```{=html}
-</p>
-```
-### Tools & Development
+### Data Engineering, AI & Cloud
 
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>`{=html}
-`<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>`{=html}
-`<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
-```
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
 ## Featured Projects
 
-### 1. EduSight --- Student Analytics
+### 1. EduSight — Student Analytics
 
-A Streamlit-based student analytics project exploring student outcomes
-and risk prediction using data preprocessing, exploratory analysis, and
-machine learning models.
+A student analytics application built with Streamlit to explore student outcomes and predict potential career paths using data analysis and machine learning.
 
-**Tools:** Python · Pandas · Scikit-learn · Streamlit
+**Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
-### 2. Sentiment Analysis with LSTM
+### 2. Sentiment Analysis Using LSTM
 
-A deep-learning project that classifies movie-review sentiment using an
-LSTM model trained on review text.
+A deep learning project that classifies movie reviews using an LSTM neural network and natural language processing.
 
-[**View repository
-→**](https://github.com/Nikson1105/Sentiment-Analysis-LSTM-based-Deep-Learning-Project)
+<a href="https://github.com/Nikson1105/Sentiment-Analysis-LSTM-based-Deep-Learning-Project">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Sentiment Analysis Project"/>
+</a>
 
-**Tools:** Python · TensorFlow/Keras · NLP · Streamlit
+**Technologies:** Python · TensorFlow/Keras · NLP · Streamlit
 
-### 3. Inventron --- Inventory Management
+### 3. Inventron — Inventory Management System
 
-A PHP and SQL-based inventory management application designed to support
-product and sales workflows.
+A PHP and SQL-based inventory management application designed to support product management and sales workflows.
 
-**Tools:** PHP · SQL · Web Development
+**Technologies:** PHP · SQL · Web Development
 
 ### 4. DBMS RAG Chatbot
 
-An experimental retrieval-augmented chatbot built to answer
-database-management study questions from selected learning resources.
+An experimental retrieval-augmented generation chatbot designed to answer database management questions using selected learning resources.
 
-**Tools:** Python · Streamlit · LangChain · FAISS · Gemini
+**Technologies:** Python · Streamlit · LangChain · FAISS · Gemini
 
-> Replace or add repository links for each project once the
-> corresponding repositories are public. Pin your strongest,
-> best-documented projects on your GitHub profile.
+---
 
-## GitHub at a Glance
+## GitHub Statistics
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikson1105&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics for Nikson1105"/>`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1105&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages"/>`{=html}
-`<br/>`{=html}
-`<img src="https://streak-stats.demolab.com?user=Nikson1105&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>`{=html}
-:::
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikson1105&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1105&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Nikson1105&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</div>
 
 ## Beyond Coding
 
--   **Public speaking:** Enjoy delivering presentations and explaining
-    ideas clearly.
--   **Peer support:** Help juniors navigate academic and technical
-    learning.
--   **Continuous learning:** Explore emerging technologies through
-    hands-on projects and workshops.
+- **Public Speaking:** Delivering presentations and communicating ideas confidently.
+- **Peer Mentoring:** Helping juniors navigate academic and technical learning.
+- **Continuous Learning:** Exploring new technologies through hands-on projects and workshops.
 
 ## Let's Connect
 
-I'm happy to connect with developers, students, mentors, and teams
-working on data, AI, and software projects.
+I'm always interested in connecting with developers, students, mentors, and professionals working in Data Engineering, AI/ML, and software development.
 
-```{=html}
-<p align="center">
-```
-`<a href="https://www.linkedin.com/in/nikhilnsonawane/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/Nikson1105">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-::: {align="center"}
-`<i>`{=html}Building skills one project at a time.`</i>`{=html}
-`<br/>`{=html}`<br/>`{=html}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:087E8B,100:00C2D1&height=100&section=footer" width="100%" alt="Decorative footer"/>`{=html}
-:::
+<div align="center">
+  <a href="https://www.linkedin.com/in/nikhilnsonawane/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://github.com/Nikson1105">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+  </a>
+
+<br/><br/>
+<i>Building skills one project at a time.</i>
+<br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:087E8B,100:00C2D1&height=100&section=footer" width="100%" alt="Footer"/>
+</div>
