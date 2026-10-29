@@ -112,22 +112,6 @@ An experimental retrieval-augmented generation chatbot designed to answer databa
 
 **Technologies:** Python · Streamlit · LangChain · FAISS · Gemini
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nikson1105&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1105&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
-
-<br/><br/>
-
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Nikson1105&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
 ## Beyond Coding
 
 - **Public Speaking:** Delivering presentations and communicating ideas confidently.
