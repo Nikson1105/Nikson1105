@@ -117,10 +117,15 @@ An experimental retrieval-augmented generation chatbot designed to answer databa
 ## GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikson1105&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1105&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Nikson1105&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nikson1105&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikson1105&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
+
+<br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Nikson1105&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
 </div>
 
 ## Beyond Coding
